@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "msbios/msbios": "^1.0"
+    },
+    "scripts": {
+        "commit": "git add . && git commit -a -m \"Lazy Composer Commiter\" && git push"
+    }
+}
