@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+bash ./vendor/bin/msbios.sh
+
 npm i -g create-react-app
 npm i -g npm
 
